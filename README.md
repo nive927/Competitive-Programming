@@ -7,5 +7,5 @@
 - [Star Top Pyramid Pattern](./Patterns/StarPyramidPattern.cpp)
 - [Power of a number using recursion and divide-and-conquer](./GeneralSimple/PowerOfNumber.cpp)
 - [Mirror number pattern, spaces come first](./Patterns/MirrorNumberPattern.cpp)
-- [Triangle of Numbers Pattern, increasing](./Patterns/TriangleOfNumbers)
+- [Triangle of Numbers Pattern, increasing](./Patterns/TriangleOfNumbers.cpp)
 - [Diamond of Stars Pattern](./Patterns/DiamondOfStars.cpp)
