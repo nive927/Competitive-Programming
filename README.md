@@ -11,3 +11,4 @@
 - [Mirror number pattern, spaces come first](./Patterns/MirrorNumberPattern.cpp)
 - [Triangle of Numbers Pattern, increasing](./Patterns/TriangleOfNumbers.cpp)
 - [Diamond of Stars Pattern](./Patterns/DiamondOfStars.cpp)
+- [Check that the first part of the number sequence can be divided into two parts with the first being strictly decreasing and the second, strictly increasing or just one (only checking, not actual partioning)](./GeneralSimple/CheckNumberSequence.cpp)
