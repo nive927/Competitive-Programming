@@ -12,3 +12,7 @@
 - [Triangle of Numbers Pattern, increasing](./Patterns/TriangleOfNumbers.cpp)
 - [Diamond of Stars Pattern](./Patterns/DiamondOfStars.cpp)
 - [Check that the first part of the number sequence can be divided into two parts with the first being strictly decreasing and the second, strictly increasing or just one (only checking, not actual partioning)](./GeneralSimple/CheckNumberSequence.cpp)
+- [Linear Search](./Searching/LinearSearch.cpp)
+- [Finding the intersection of two arrays](./GeneralSimple/ArrayIntersection.cpp)
+- [Sorting an array of 0s and 1s](./Sorting/Sort01.cpp)
+- [Binary Search](./Searching/BinarySearch.cpp)
