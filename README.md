@@ -6,3 +6,6 @@
 - [Number Pattern with spaces at first](./Patterns/NumberPattern2.cpp)
 - [Star Top Pyramid Pattern](./Patterns/StarPyramidPattern.cpp)
 - [Power of a number using recursion and divide-and-conquer](./GeneralSimple/PowerOfNumber.cpp)
+- [Mirror number pattern, spaces come first](./Patterns/MirrorNumberPattern.cpp)
+- [Triangle of Numbers Pattern, increasing](./Patterns/TriangleOfNumbers)
+- [Diamond of Stars Pattern](./Patterns/DiamondOfStars.cpp)
