@@ -1,23 +1,27 @@
 #include<iostream>
 using namespace std;
 
-long long power(long long x, unsigned long long y)
-{
-    if (y == 0)
-        return 1;
-    else if (y % 2 == 0)
-        return power(x, y / 2) * power(x, y / 2);
+int power(int x, int n) {
+	if(n == 0)
+    	return 1;
+
+    int temp = power(x, n / 2);
+
+    if(n % 2 == 0)
+        return temp * temp;
+
     else
-        return x * power(x, y / 2) * power(x, y / 2);
+    {
+        if(n > 0)
+            return temp * temp * x;
+        else
+            return (temp * temp) / x;
+	}
 }
 
-int main() {
-	// Write your code here
-
-	long long x, n, ans;
+int main(){
+    int x, n;
     cin >> x >> n;
 
-    ans = power(x, n);
-
-    cout << ans;
+    cout << power(x, n) << endl;
 }
