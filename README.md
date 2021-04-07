@@ -41,7 +41,7 @@
 - [Printing out the leaders in an array, in the same order (NOTE: reverse order will reduce time complexity, look it up)](./GeneralSimple/LeadersInArray.cpp)
 
 ## Recursion & Time Complexity
-- [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSorted.cpp)
+- [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSortedRec.cpp)
 - [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
 - [Counting the number of digits](./Recursion/NumberOfDigitsRec.cpp)
 - [Finding the sum of the elements of an array](./Recursion/ArraySumRec.cpp)
