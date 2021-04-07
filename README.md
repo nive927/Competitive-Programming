@@ -39,3 +39,17 @@
 - [Run length encoding or compressing a string](./Strings/CompressString.cpp)
 - [Finding the minimum length word in a string](./Strings/MinimumLengthWord.cpp)
 - [Printing out the leaders in an array, in the same order (NOTE: reverse order will reduce time complexity, look it up)](./GeneralSimple/LeadersInArray.cpp)
+
+## Recursion & Time Complexity
+- [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSorted.cpp)
+- [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
+- [Counting the number of digits](./Recursion/NumberOfDigitsRec.cpp)
+- [Finding the sum of the elements of an array](./Recursion/ArraySumRec.cpp)
+- [Linear Search](./Recursion/LinearSearchRec.cpp)
+- [Finding the first index of occurrence of a target element](./Recursion/FirstIndexOfNumberRec.cpp)
+- [Finding the last index of occurrence of a target element](./Recursion/LastIndexOfNumberRec.cpp)
+- [Finding all the indices of occurrence of a target element](./Recursion/AllIndicesOfNumberRec.cpp)
+- [Multiplying two numbers](./Recursion/MultiplyNumbersRec.cpp)
+- [Counting the number of zeroes in a number, excluding leading zeroes](./Recursion/CountZeroesRec.cpp)
+- [Checking if the given string is a pallindrome](./Recursion/CheckPallindromeRec.cpp)
+- [Finding the sum of digits of the given number](./Recursion/SumOfDigitsRec.cpp)
