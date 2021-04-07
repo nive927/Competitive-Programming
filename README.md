@@ -1,7 +1,7 @@
 # Competitive-Programming
 
 ## C++ Fundamentals
-
+### Patterns
 - [Number Pattern with the last number in a row as the start of the next](./Patterns/NumberPattern1.cpp)
 - [Number Pattern with spaces at first](./Patterns/NumberPattern2.cpp)
 - [Star Top Pyramid Pattern](./Patterns/StarPyramidPattern.cpp)
@@ -13,6 +13,8 @@
 - [Diamond of Stars Pattern](./Patterns/DiamondOfStars.cpp)
 - [Check that the first part of the number sequence can be divided into two parts with the first being strictly decreasing and the second, strictly increasing or just one (only checking, not actual partioning)](./GeneralSimple/CheckNumberSequence.cpp)
 - [A square pattern with number triangles on both sides and star pyramid in the middle](./Patterns/NumberStarPattern.cpp)
+
+### Searching & Sorting
 - [Linear Search](./Searching/LinearSearch.cpp)
 - [Finding the intersection of two arrays](./GeneralSimple/ArrayIntersection.cpp)
 - [Sorting an array of 0s and 1s](./Sorting/Sort01.cpp)
@@ -24,6 +26,8 @@
 - [Left-rotating an array by the given number of elements](./GeneralSimple/RotateArray.cpp)
 - [Finding the second largest element in an array](./GeneralSimple/SecondLargestInArray.cpp)
 - [Sorting an array containing only 0s, 1s and 2s](./Sorting/Sort012.cpp)
+
+### Character Arrays & 2D Arrays
 - [Storing two numbers in arrays and finding their sum in another array](./GeneralSimple/SumOfNumbersStoredAsArrays.cpp)
 - [Trimming or removing all the spaces in a string](./Strings/TrimSpaces.cpp)
 - [Reverse a string word-wise, the last word should be the first word in place](./Strings/ReverseWordWise.cpp)
