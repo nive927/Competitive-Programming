@@ -44,7 +44,9 @@
 - [Finding the minimum length word in a string](./Strings/MinimumLengthWord.cpp)
 - [Printing out the leaders in an array, in the same order (NOTE: reverse order will reduce time complexity, look it up)](./GeneralSimple/LeadersInArray.cpp)
 
-## Recursion & Time Complexity
+## Recursion
+
+### Numbers
 - [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSortedRec.cpp)
 - [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
 - [Counting the number of digits](./Recursion/NumberOfDigitsRec.cpp)
@@ -57,3 +59,6 @@
 - [Counting the number of zeroes in a number, excluding leading zeroes](./Recursion/CountZeroesRec.cpp)
 - [Checking if the given string is a pallindrome](./Recursion/CheckPallindromeRec.cpp)
 - [Finding the sum of digits of the given number](./Recursion/SumOfDigitsRec.cpp)
+
+### Strings
+[] To do
