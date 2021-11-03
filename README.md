@@ -1,10 +1,10 @@
 # Table of Contents
-1. [C++ Fundamentals](./##c++-fundamentals)
-   - [Patterns](./###-Patterns)
-   - [Searching & Sorting](./###-Searching-&-Sorting)
-   - [Character Arrays & 2D Arrays](./###-Character-Arrays-&-2D-Arrays)
-2. [Data Structures & Related Concepts](./##-Data-Structures-&-Related-Concepts)
-   - [Recursion](./###-Recursion)
+1. [C++ Fundamentals](#c-fundamentals)
+   - [Patterns](#patterns)
+   - [Searching & Sorting](#searching--sorting)
+   - [Character Arrays & 2D Arrays](#character-arrays--2d-arrays)
+2. [Data Structures & Related Concepts](#data-structures--related-concepts)
+   - [Recursion Basics](#recursion-basics)
 
 ## C++ Fundamentals
 ### Patterns
@@ -52,7 +52,7 @@
 
 ## Data Structures & Related Concepts
 
-### Recursion
+### Recursion Basics
 
 - [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSortedRec.cpp)
 - [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
