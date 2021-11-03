@@ -4,13 +4,25 @@
    - [Searching & Sorting](#searching--sorting)
    - [Character Arrays & 2D Arrays](#character-arrays--2d-arrays)
 2. [Data Structures & Related Concepts](#data-structures--related-concepts)
-   - [Recursion Basics](#recursion)
+   - [OOP 1](#oop-1)
+   - [OOP 2](#oop-2)
+   - [Linked List 1](#linked-list-1)
+   - [Linked List 1](#linked-list-2)
+   - [Stacks & Queues](#stacks--queues)
+   - [Trees](#trees)
+   - [Binary Trees](#binary-trees)
+   - [BST](#bst)
+   - [Priority Queues](#priority-queues)
+   - [Hashmaps](#hashmaps)
+   - [Tries & Huffman Coding](#tries--huffman-coding)
+   - [OOP 3](#oop-3)
+
 3. [Competitive Programming](#competitive-programming)
    - [Prerequisites](#prerequisites)
    - [Intro to Competitive Programming](#intro-to-competitive-programming)
    - [Pointers](#pointers)
    - [Dynamic Allocation](#dynamic-allocation)
-   - [Basics Recursion](#basics-recursion)
+   - [Basics of Recursion](#basics-of-recursion)
    - [Time & Space Complexity Analysis](#time--space-complexity-analysis)
    - [Language Tools](#language-tools)
    - [Language Tools + Time & Space Complexity Analysis](#language-tools--time--space-complexity-analysis)
@@ -86,8 +98,26 @@
 - [Printing out the leaders in an array, in the same order (NOTE: reverse order will reduce time complexity, look it up)](./GeneralSimple/LeadersInArray.cpp)
 
 ## Data Structures & Related Concepts
-### Recursion
+### OOP 1
+### OOP 2
+### Linked List 1
+### Linked List 2
+### Stacks & Queues
+### Trees
+### Binary Trees
+### BST
+### Priority Queues
+### Hashmaps
+### Tries & Huffman Coding
+### OOP 3
 
+## Competitive Programming
+### Prerequisites
+### Intro to Competitive Programming
+### Pointers
+### Dynamic Allocation
+
+### Basics of Recursion
 - [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSortedRec.cpp)
 - [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
 - [Counting the number of digits](./Recursion/NumberOfDigitsRec.cpp)
@@ -101,12 +131,6 @@
 - [Checking if the given string is a pallindrome](./Recursion/CheckPallindromeRec.cpp)
 - [Finding the sum of digits of the given number](./Recursion/SumOfDigitsRec.cpp)
 
-## Competitive Programming
-### Prerequisites
-### Intro to Competitive Programming
-### Pointers
-### Dynamic Allocation
-### Basics Recursion
 ### Time & Space Complexity Analysis
 ### Language Tools
 ### Language Tools + Time & Space Complexity Analysis
