@@ -1,5 +1,5 @@
 # Table of Contents
-1. [C++ Fundamentals](./##-C++-Fundamentals)
+1. [C++ Fundamentals](./##c++-fundamentals)
    - [Patterns](./###-Patterns)
    - [Searching & Sorting](./###-Searching-&-Sorting)
    - [Character Arrays & 2D Arrays](./###-Character-Arrays-&-2D-Arrays)
