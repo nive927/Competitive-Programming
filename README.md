@@ -4,7 +4,42 @@
    - [Searching & Sorting](#searching--sorting)
    - [Character Arrays & 2D Arrays](#character-arrays--2d-arrays)
 2. [Data Structures & Related Concepts](#data-structures--related-concepts)
-   - [Recursion Basics](#recursion-basics)
+   - [Recursion Basics](#recursion)
+3. [Competitive Programming](#competitive-programming)
+   - [Prerequisites](#prerequisites)
+   - [Intro to Competitive Programming](#intro-to-competitive-programming)
+   - [Pointers](#pointers)
+   - [Dynamic Allocation](#dynamic-allocation)
+   - [Basics Recursion](#basics-recursion)
+   - [Time & Space Complexity Analysis](#time--space-complexity-analysis)
+   - [Language Tools](#language-tools)
+   - [Language Tools + Time & Space Complexity Analysis](#language-tools--time--space-complexity-analysis)
+   - [Searching & Sorting Applications](#searching--sorting-applications)
+   - [Advanced Recursion](#advanced-recursion)
+   - [Backtracking](#backtracking)
+   - [Backtracking, Binary Search & Merge Sort](#backtracking-binary-search--merge-sort)
+   - [Bit Manipulation](#bit-manipulation)
+   - [Adhoc Problems](#adhoc-problems)
+   - [Modulo Arithmetic](#modulo-arithmetic)
+   - [Dynamic Programming 1](#dynamic-programming-1)
+   - [Dynamic Programming 2](#dynamic-programming-2)
+   - [Greedy Problems](#greedy-problems)
+   - [Segment Tree](#segment-tree)
+   - [Graphs 1](#graphs-1)
+   - [Graphs 2](#graphs-2)
+   - [Advanced Graphs](#advanced-graphs)
+   - [String Algorithms](#string-algorithms)
+   - [Tries](#tries)
+   - [Fenwick Tree](#fenwick-tree)
+   - [DP & Bitmasking](#dp--bitmasking)
+   - [Number Theory 1](#number-theory-1)
+   - [Applications of Number Theory](#applications-of-number-theory)
+   - [Number Theory 2](#number-theory-2)
+   - [Number Theory 3](#number-theory-3)
+   - [Game Theory](#game-theory)
+   - [Computational Geometry](#computational-geometry)
+   - [FFT](#fft)
+   - [HLD](#hld)
 
 ## C++ Fundamentals
 ### Patterns
@@ -51,8 +86,7 @@
 - [Printing out the leaders in an array, in the same order (NOTE: reverse order will reduce time complexity, look it up)](./GeneralSimple/LeadersInArray.cpp)
 
 ## Data Structures & Related Concepts
-
-### Recursion Basics
+### Recursion
 
 - [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSortedRec.cpp)
 - [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
@@ -66,3 +100,39 @@
 - [Counting the number of zeroes in a number, excluding leading zeroes](./Recursion/CountZeroesRec.cpp)
 - [Checking if the given string is a pallindrome](./Recursion/CheckPallindromeRec.cpp)
 - [Finding the sum of digits of the given number](./Recursion/SumOfDigitsRec.cpp)
+
+## Competitive Programming
+### Prerequisites
+### Intro to Competitive Programming
+### Pointers
+### Dynamic Allocation
+### Basics Recursion
+### Time & Space Complexity Analysis
+### Language Tools
+### Language Tools + Time & Space Complexity Analysis
+### Searching & Sorting Applications
+### Advanced Recursion
+### Backtracking
+### Backtracking, Binary Search & Merge Sort
+### Bit Manipulation
+### Adhoc Problems
+### Modulo Arithmetic
+### Dynamic Programming 1
+### Dynamic Programming 2
+### Greedy Problems
+### Segment Tree
+### Graphs 1
+### Graphs 2
+### Advanced Graphs
+### String Algorithms
+### Tries
+### Fenwick Tree
+### DP & Bitmasking
+### Number Theory 1
+### Applications of Number Theory
+### Number Theory 2
+### Number Theory 3
+### Game Theory
+### Computational Geometry
+### FFT
+### HLD
