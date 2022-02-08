@@ -18,11 +18,7 @@
    - [OOP 3](#oop-3)
 
 3. [Competitive Programming](#competitive-programming)
-   - [Prerequisites](#prerequisites)
-   - [Intro to Competitive Programming](#intro-to-competitive-programming)
-   - [Pointers](#pointers)
-   - [Dynamic Allocation](#dynamic-allocation)
-   - [Basics of Recursion](#basics-of-recursion)
+   - [Recursion](#recursion)
    - [Time & Space Complexity Analysis](#time--space-complexity-analysis)
    - [Language Tools](#language-tools)
    - [Language Tools + Time & Space Complexity Analysis](#language-tools--time--space-complexity-analysis)
@@ -112,12 +108,7 @@
 ### OOP 3
 
 ## Competitive Programming
-### Prerequisites
-### Intro to Competitive Programming
-### Pointers
-### Dynamic Allocation
-
-### Basics of Recursion
+### Recursion
 - [Checking if the given array is sorted](./Recursion/CheckIfArrayIsSortedRec.cpp)
 - [Printing numbers in order until the limit](./Recursion/PrintNumbersRec.cpp)
 - [Counting the number of digits](./Recursion/NumberOfDigitsRec.cpp)
