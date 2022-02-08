@@ -121,6 +121,11 @@
 - [Counting the number of zeroes in a number, excluding leading zeroes](./Recursion/CountZeroesRec.cpp)
 - [Checking if the given string is a pallindrome](./Recursion/CheckPallindromeRec.cpp)
 - [Finding the sum of digits of the given number](./Recursion/SumOfDigitsRec.cpp)
+- [Remove character x from string](./Recursion/RemoveX.cpp)
+- [Replace 'pi' with 3.14](./Recursion/ReplacePi.cpp)
+- [Convert string to integer](./Recursion/StringToInteger.cpp)
+- [Insert a star between two consecutive same characters](./Recursion/PairStar.cpp)
+- [Tower of Hanoi](./Recursion/TowerOfHanoi.cpp)
 
 ### Time & Space Complexity Analysis
 ### Language Tools
