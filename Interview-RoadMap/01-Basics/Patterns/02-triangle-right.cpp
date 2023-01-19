@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int i, j;
+    int i, j, n=5;
 
     for(int i=0; i<5; i++)
     {
