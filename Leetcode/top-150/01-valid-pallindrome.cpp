@@ -2,6 +2,8 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+
+        // Notice how they key in i<j and not i<ws/2 which is the same thing but i<j is useful for other problems of the same pattern.
         for (int i = 0, j = s.size() - 1; i < j; i++, j--) {
             while (i < j && !isalnum(s[i])) i++; // We can simply ignore non-alphanumeric characters by continuing to traverse further.
             while (i < j && !isalnum(s[j])) j--;
