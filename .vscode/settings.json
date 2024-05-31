@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "python.defaultInterpreterPath": "./virtualenv/bin/python",
+        "iostream": "cpp",
+        "xlocale": "cpp"
     }
 }
