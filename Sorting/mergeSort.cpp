@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// void return - IMPORTANT
+// addressing of arguments is IMPORTANT
 void merge(vector<int>& arr, int s, int m, int e) {
     // Copy the sorted left & right halfs to temp arrays
     vector<int> L = {arr.begin() + s, arr.begin() + m + 1};
@@ -28,9 +30,18 @@ void merge(vector<int>& arr, int s, int m, int e) {
     }
 }
 
-vector<int> mergeSort(vector<int>& arr, int s, int e) {
-    if (e - s + 1 <= 1) {
-        return arr;
+// void return - IMPORTANT
+// addressing of arguments is IMPORTANT
+void mergeSort(vector<int>& arr, int s, int e) {
+
+    // base case
+    // if the array has 1 or 0 elements, you find it out using the start and end indices
+    // you can also do
+    // if (s >= e) { return; }
+
+    // when arr is split into only single elements - base case
+    if (e - s + 1 <= 1) { 
+        return;
     }
     // The middle index of the array
     int m = s + (e - s)  / 2; // (s + e) / 2 can cause overflow
@@ -43,11 +54,7 @@ vector<int> mergeSort(vector<int>& arr, int s, int e) {
 
     // Merge sorted halfs
     merge(arr, s, m, e);
-    
-    return arr;
 }
-
-
 
 int main() {
 
