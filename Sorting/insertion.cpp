@@ -6,16 +6,23 @@ void insertionSort(int *input, int size)
     //Write your code here
     for(int i=1; i<size; i++)
     {
-        int small = input[i]; 
+		// current item for insert
+        int key = input[i]; 
+
+		// end index for the sorted list - from the beginning
         int j = i-1;
 
-        while((small < input[j]) && (j>=0))
+		// if the current item is less than anything in the sorted part
+		// move everything in the sorted to the right - key will be overwritten by j+1, so you need to store it
+		// insert the key at the right place
+        while((key < input[j]) && (j>=0))
         {
                 input[j+1] = input[j];
                 j--;
         }
 
-        input[j+1] = small;
+
+        input[j+1] = key;
     }
 }
 
